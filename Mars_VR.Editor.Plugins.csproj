@@ -127,6 +127,7 @@
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Foliage Free\Readme.txt" />
     <None Include="Assets\NaturalTilingTextures\External\ShaderForge_NTT_Triplanar.shader" />
     <None Include="Assets\Stagit\SkyboxEarthPlanets\readme.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
