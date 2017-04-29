@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/e2.unity
+- path: Assets/Moon2.unity
   isLoaded: 1
   isActive: 1
